@@ -5,6 +5,3 @@
   <title>PHP Practice</title>
 </head>
 <body>
-  <p>Hello, PHP!</p>
-</body>
-</html>
